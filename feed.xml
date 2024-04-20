@@ -29,24 +29,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>testu</title>
-        <author>
-            <name>IG</name>
-        </author>
-        <link href="https://entopo.gr/testu.html"/>
-        <id>https://entopo.gr/testu.html</id>
-
-        <updated>2024-04-20T16:44:12+03:00</updated>
-            <summary>
-                <![CDATA[
-                    bmhg12
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>bmhg12</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
