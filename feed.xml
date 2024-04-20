@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>entopo</title>
+    <title>Έντοπο</title>
     <link href="https://entopo.gr/feed.xml" rel="self" />
     <link href="https://entopo.gr" />
     <updated>2024-04-20T18:28:22+03:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>IG</name>
         </author>
-        <link href="https://entopo.gr/78.html"/>
-        <id>https://entopo.gr/78.html</id>
+        <link href="https://entopo.gr/78/"/>
+        <id>https://entopo.gr/78/</id>
 
         <updated>2024-04-20T17:43:28+03:00</updated>
             <summary>

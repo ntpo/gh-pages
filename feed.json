@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "entopo",
+    "title": "Έντοπο",
     "description": "",
     "home_page_url": "https://entopo.gr",
     "feed_url": "https://entopo.gr/feed.json",
@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://entopo.gr/78.html",
-            "url": "https://entopo.gr/78.html",
+            "id": "https://entopo.gr/78/",
+            "url": "https://entopo.gr/78/",
             "title": "782",
             "summary": "ok2",
             "content_html": "<p>ok2</p>",
