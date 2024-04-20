@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "entopo",
     "description": "",
-    "home_page_url": "https://ntpo.github.io/gh-pages",
-    "feed_url": "https://ntpo.github.io/gh-pages/feed.json",
+    "home_page_url": "https://entopo.gr",
+    "feed_url": "https://entopo.gr/feed.json",
     "user_comment": "",
     "author": {
         "name": "IG"
     },
     "items": [
         {
-            "id": "https://ntpo.github.io/gh-pages/78.html",
-            "url": "https://ntpo.github.io/gh-pages/78.html",
+            "id": "https://entopo.gr/78.html",
+            "url": "https://entopo.gr/78.html",
             "title": "78",
             "summary": "ok",
             "content_html": "<p>ok</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2024-04-20T17:43:28+03:00"
         },
         {
-            "id": "https://ntpo.github.io/gh-pages/testu.html",
-            "url": "https://ntpo.github.io/gh-pages/testu.html",
+            "id": "https://entopo.gr/testu.html",
+            "url": "https://entopo.gr/testu.html",
             "title": "testu",
             "summary": "bmhg12",
             "content_html": "<p>bmhg12</p>",
