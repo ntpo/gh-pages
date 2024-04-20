@@ -3,7 +3,7 @@
     <title>Έντοπο</title>
     <link href="https://entopo.gr/feed.xml" rel="self" />
     <link href="https://entopo.gr" />
-    <updated>2024-04-20T18:28:22+03:00</updated>
+    <updated>2024-04-20T19:15:13+03:00</updated>
     <author>
         <name>IG</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://entopo.gr/78/"/>
         <id>https://entopo.gr/78/</id>
 
-        <updated>2024-04-20T17:43:28+03:00</updated>
+        <updated>2024-04-20T19:15:13+03:00</updated>
             <summary>
                 <![CDATA[
-                    ok2
+                    55ok2
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>ok2</p>
+                <p>55ok2</p>
             ]]>
         </content>
     </entry>
