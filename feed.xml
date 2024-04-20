@@ -3,12 +3,32 @@
     <title>entopo</title>
     <link href="https://entopo.gr/feed.xml" rel="self" />
     <link href="https://entopo.gr" />
-    <updated>2024-04-20T17:40:53+03:00</updated>
+    <updated>2024-04-20T17:43:28+03:00</updated>
     <author>
         <name>IG</name>
     </author>
     <id>https://entopo.gr</id>
 
+    <entry>
+        <title>78</title>
+        <author>
+            <name>IG</name>
+        </author>
+        <link href="https://entopo.gr/78.html"/>
+        <id>https://entopo.gr/78.html</id>
+
+        <updated>2024-04-20T17:43:28+03:00</updated>
+            <summary>
+                <![CDATA[
+                    ok
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ok</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>testu</title>
         <author>
