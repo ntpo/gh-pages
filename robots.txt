@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ntpo.github.io/gh-pages/sitemap.xml
+Sitemap: https://entopo.gr/sitemap.xml

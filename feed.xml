@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>entopo</title>
-    <link href="https://ntpo.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://ntpo.github.io/gh-pages" />
-    <updated>2024-04-20T16:44:12+03:00</updated>
+    <link href="https://entopo.gr/feed.xml" rel="self" />
+    <link href="https://entopo.gr" />
+    <updated>2024-04-20T16:48:53+03:00</updated>
     <author>
         <name>IG</name>
     </author>
-    <id>https://ntpo.github.io/gh-pages</id>
+    <id>https://entopo.gr</id>
 
     <entry>
         <title>testu</title>
         <author>
             <name>IG</name>
         </author>
-        <link href="https://ntpo.github.io/gh-pages/testu.html"/>
-        <id>https://ntpo.github.io/gh-pages/testu.html</id>
+        <link href="https://entopo.gr/testu.html"/>
+        <id>https://entopo.gr/testu.html</id>
 
         <updated>2024-04-20T16:44:12+03:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    bmhg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>bmhg</p>
+            ]]>
+        </content>
     </entry>
 </feed>
